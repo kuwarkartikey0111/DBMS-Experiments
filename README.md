@@ -62,7 +62,7 @@ Each experiment folder includes its own **README** with the aim, topics covered,
 2. Clone this repository, or download it using **Code → Download ZIP**:
 
    ```bash
-   git clone https://github.com/antrang0912-dotcom/DBMS-Experiments.git
+   git clone https://github.com/kuwarkartikey0111/DBMS-Experiments.git
    ```
 
 3. Open the required `.sql` file in MySQL Workbench using **File → Open SQL Script**.
