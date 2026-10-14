@@ -87,7 +87,7 @@ By completing these experiments, you can understand how relational databases are
 
 ## 👨‍💻 Author
 
-**Antrang Srivastava**  
+**Kuwar Kartikey Singh**  
 B.Tech — Computer Science & Engineering (AI & ML)  
 Chandigarh University
 
