@@ -531,7 +531,7 @@ The overall objective is to strengthen practical SQL knowledge, database design 
 
 **Chandigarh University**
 
-[![GitHub](https://img.shields.io/badge/GitHub-antrang0912--dotcom-181717?style=for-the-badge&logo=github)](https://github.com/kuwarkartikey0111/DBMS-Experiments/)
+[![GitHub](https://img.shields.io/badge/GitHub-kuwarkartikey0111-181717?style=for-the-badge&logo=github)](https://github.com/kuwarkartikey0111/DBMS-Experiments/)
 
 ---
 
