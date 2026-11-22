@@ -542,3 +542,28 @@ The overall objective is to strengthen practical SQL knowledge, database design 
 *Developed for academic learning and practical database implementation.*
 
 </div>
+
+
+---
+
+## 🏆 Professional Certifications
+
+Successfully completed the following certifications from recognized learning and skill assessment platforms.
+
+### 1. Infosys Springboard
+
+**Certification:** SQL Developer  
+**Issuing Organization:** Infosys Springboard  
+**Completion Date:** 18 November 2026
+
+📄 [View Infosys Springboard Certificate](./Certifications/Infosys-Springboard-SQL-Developer.pdf)
+
+### 2. HackerRank
+
+**Certification:** SQL (Basic)  
+**Issuing Organization:** HackerRank  
+**Completion Date:** 18 November 2026
+
+📄 [View HackerRank Certificate](./Certifications/HackerRank-SQL-Basic.pdf)
+
+---
